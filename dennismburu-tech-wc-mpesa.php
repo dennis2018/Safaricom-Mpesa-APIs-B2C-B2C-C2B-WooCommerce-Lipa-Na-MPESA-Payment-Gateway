@@ -1,7 +1,7 @@
 <?php
 /**
  * Plugin Name: MPesa For WooCommerce
- * Plugin URI: https://wc-mpesa.osen.co.ke/
+ * Plugin URI: https://dennismburu.tech/
  * Description: This plugin extends WordPress and WooCommerce functionality to integrate MPesa for making and receiving online payments.
  * Author: Dennis Mburu Tech < admin@dennismburu.tech >
  * Version: 1.8.8
