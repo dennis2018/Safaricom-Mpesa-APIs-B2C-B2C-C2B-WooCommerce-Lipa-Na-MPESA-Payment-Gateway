@@ -1,10 +1,16 @@
 <?php
 /**
- * @package MPesa For WooCommerce
- * @subpackage Menus
- * @author Mauko Maunde < hi@mauko.co.ke >
- * @since 0.18.01
+ * Plugin Name: MPesa For WooCommerce
+ * Plugin URI: https://dennismburu.tech/
+ * Description: This plugin extends WordPress and WooCommerce functionality to integrate MPesa for making and receiving online payments.
+ * Author: Dennis Mburu Tech < admin@dennismburu.tech >
+ * Version: 1.8.8
+ * Author URI: https://wwww.dennismburu.tech/
+ *
+ * Requires at least: 4.4
+ * Tested up to: 4.9.5
  */
+
 
 add_action( 'admin_menu', 'mpesa_transactions_menu' );
 
