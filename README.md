@@ -34,5 +34,5 @@ That is all. You are now ready to receive and send money using MPESA on your Wor
 * WordPress and the WordPress logo are registered trademarks of Automattic Inc.
 
 
-#Need help talk to our us and will assist in intergration as well as any querries regarding the same.
-#Good luck with the plugin!
+## Need help talk to our us and will assist in intergration as well as any querries regarding the same.
+## Good luck with the plugin!
