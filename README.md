@@ -1,6 +1,7 @@
 # Getting Started
 
-[![GitHub Issues](https://img.shields.io/github/issues/dennis2018/Safaricom-Mpesa-APIs-B2C-B2C-C2B-WooCommerce-Lipa-Na-MPESA-Payment-Gateway)]   [![Current Version](https://img.shields.io/badge/version-1.0.7-green.svg)](https://github.com/IgorAntun/node-chat)
+![GitHub Issues](https://img.shields.io/github/issues/dennis2018/Safaricom-Mpesa-APIs-B2C-B2C-C2B-WooCommerce-Lipa-Na-MPESA-Payment-Gateway)]   [![Current Version](https://img.shields.io/badge/version-1.0.7-green.svg)](https://github.com/IgorAntun/node-chat)
+
 Welcome to Safaricom APIs!These is a woocommerce plugin for wordpress.
 
 # MPESA For WooCommerce
